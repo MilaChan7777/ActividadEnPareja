@@ -16,4 +16,9 @@ body {
 	width: 400px;
 	height: 400px;
 	background-color: pink;
+	text-align: center;
+}
+
+h2 {
+	color: blueviolet;
 }
